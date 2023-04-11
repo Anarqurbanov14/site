@@ -1,0 +1,104 @@
+.nav_list {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 20px 200px 0 200px;
+  font-size: 18px;
+  font-family: "Gilroy-Bold";
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #070707;
+}
+
+.bio {
+  padding: 30px 250px 30px 250px;
+}
+
+.bio .bio_text1 {
+  color: #070707;
+  font-size: 47px;
+  line-height: 59px;
+  font-family: "Gilroy-Bold";
+}
+
+.bio .bio_text2 {
+  font-size: 18px;
+  padding-top: 50px;
+}
+
+.bio_img {
+  padding-top: 30px;
+}
+
+.text {
+  height: 506px;
+  padding: 120px 250px 30px 250px;
+  background-color: #f6f6f6;
+}
+
+.text .text_title {
+  text-align: center;
+  font-size: 34px;
+}
+
+.text .text_subtitle {
+  text-align: center;
+  color: #070707;
+  font-size: 18px;
+}
+
+.skills {
+  height: 570px;
+
+  padding: 0 250px 0 250px;
+}
+
+.skills .skills_title {
+  text-align: center;
+  font-size: 34px;
+  color: #070707;
+}
+
+.skills .skills_subtitle {
+  color: #070707;
+  font-size: 18px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.portfolio {
+  padding: 30px 250px 0 250px;
+  background-color: #f6f6f6;
+}
+
+.portfolio .portfolio_title {
+  text-align: center;
+  font-size: 34px;
+  color: #070707;
+}
+
+.portfolio .portfolio_link {
+  text-align: center;
+}
+
+.portfolio .portfolio_link .link_a {
+  color: #070707;
+}
+
+.footer .footer_title {
+  color: #070707;
+  font-size: 34px;
+  text-align: center;
+}
+
+.footer .footer_subtitle {
+  font-style: 18px;
+  text-align: center;
+  color: #070707;
+}
+
+.footer .footer_btn {
+  height: 30px;
+}
